@@ -54,12 +54,10 @@ img {
 .olga-photo {
     border: 3px solid purple;
 }
-ul li {
-    color: #242424;
+li {
+    line-height: 36px;
     font-size: 24px;
     font-weight: 100;
-    width: 693px;
-    line-height: 36px;
 }
 
 .olga-h {

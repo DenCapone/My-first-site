@@ -1,5 +1,6 @@
 ﻿body {
     font-family: sans-serif;
+     word-wrap: break-word;
 }
 
 header {
@@ -17,7 +18,7 @@ main {
     align-items: center;
     padding: 10%;
     flex-wrap: wrap;
-    word-break: break-all;
+    word-wrap: break-word;
 }
 
 main p {
@@ -52,7 +53,9 @@ img {
 .olga-photo {
     border: 3px solid purple;
 }
-
+ul li {
+     word-wrap: break-word;
+}
 
 .olga-h {
     color: purple;

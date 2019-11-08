@@ -18,8 +18,7 @@ main {
     justify-content: space-around;
     align-items: center;
     padding: 10%;
-    flex-wrap: wrap;
-  
+    flex-wrap: wrap;  
 }
 
 main p {
@@ -28,6 +27,7 @@ main p {
     font-weight: 100;
     width: 693px;
     line-height: 36px;
+  
 }
 
 header a {

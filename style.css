@@ -10,6 +10,7 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    text-align: center;
 }
 
 main {
@@ -72,6 +73,11 @@ li {
 }
 .oksana-h {
     color: orange;
+}
+.tortopek-h {
+    color: #FCC13F;
+    font-weight: bold;
+    font-family: inherit
 }
 
 footer {

@@ -80,6 +80,12 @@ li {
     font-family: inherit
 }
 
+.nails-2 {
+    margin-top: 50px;
+}
+.nails-2-h {
+    color: #E22E03;
+}
 footer {
     background-color: #434445;
     height: 120px;

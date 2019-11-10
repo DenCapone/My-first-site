@@ -1,6 +1,6 @@
 ﻿body {
     font-family: sans-serif;
-   
+
 }
 
 header {
@@ -19,7 +19,7 @@ main {
     justify-content: space-around;
     align-items: center;
     padding: 10%;
-    flex-wrap: wrap;  
+    flex-wrap: wrap;
 }
 
 main p {
@@ -28,7 +28,7 @@ main p {
     font-weight: 100;
     width: 693px;
     line-height: 36px;
-  
+
 }
 
 header a {
@@ -55,6 +55,7 @@ img {
 .olga-photo {
     border: 3px solid purple;
 }
+
 li {
     line-height: 36px;
     font-size: 24px;
@@ -68,12 +69,15 @@ li {
 .olga-p {
     color: blueviolet;
 }
+
 .ira-h {
     color: hotpink;
 }
+
 .oksana-h {
     color: orange;
 }
+
 .tortopek-h {
     color: #FCC13F;
     font-weight: bold;
@@ -83,9 +87,15 @@ li {
 .nails-2 {
     margin-top: 50px;
 }
+
 .nails-2-h {
     color: #E22E03;
 }
+
+.alsu-h {
+    color: #559E69;
+}
+
 footer {
     background-color: #434445;
     height: 120px;

@@ -117,22 +117,26 @@ li {
     width: 150px;
     height: 150px;
 }
+
 .print-h {
     color: #2F2DF2;
 }
+
 .korea-h {
     color: #FE6B1B;
 }
+
 .school-h {
     color: #2E6362;
 }
+
 footer {
     background-color: #434445;
     height: 120px;
     color: #a4a4a4;
     font-size: 20px;
     font-style: italic;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    padding: 1%;
 }

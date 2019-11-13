@@ -117,6 +117,9 @@ li {
     width: 150px;
     height: 150px;
 }
+.print-h {
+    color: #2F2DF2;
+}
 footer {
     background-color: #434445;
     height: 120px;

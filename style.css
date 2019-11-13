@@ -8,9 +8,18 @@ header {
     background-color: #dfdfdf;
     height: 80px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
     text-align: center;
+    padding: 5px;
+}
+
+.header-1 {
+    border-bottom: none;
+}
+
+.header-2 {
+    border-top: none;
 }
 
 main {
@@ -86,7 +95,6 @@ li {
 
 .next {
     margin-top: 50px;
-    margin-left: 50px;
 }
 
 .nails-2-h {
@@ -103,6 +111,11 @@ li {
 
 .lola {
     color: #A56855;
+}
+
+.img-mini {
+    width: 150px;
+    height: 150px;
 }
 footer {
     background-color: #434445;

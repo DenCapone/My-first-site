@@ -157,6 +157,13 @@ li {
     height: auto;
     vertical-align: middle;
 }
+.photo  {
+    border-radius: 0%;
+    width: 20%;
+    height: auto;
+    vertical-align: middle;
+    padding: 5px;
+}
 footer {
     background-color: #434445;
     height: 120px;

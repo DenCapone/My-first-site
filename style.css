@@ -58,9 +58,13 @@ img {
     border-radius: 50%;
     width: 280px;
     height: 280px;
-
 }
 
+.img1 {
+    border-radius: 50%;
+    width: 280px;
+    height: 320px;
+}
 .olga-photo {
     border: 3px solid purple;
 }
@@ -143,6 +147,15 @@ li {
 }
 .alexandra-h {
     color: #D9193C
+}
+.buket-food-h {
+    color: #FE2509;
+}
+.buket-food-i {
+    border-radius: 0%;
+    width: 20%;
+    height: auto;
+    vertical-align: middle;
 }
 footer {
     background-color: #434445;
